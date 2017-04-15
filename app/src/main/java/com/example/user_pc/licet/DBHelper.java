@@ -5,6 +5,7 @@ import android.database.DatabaseUtils;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.database.sqlite.SQLiteDatabase;
 public class DBHelper extends SQLiteOpenHelper {
+    int i;
     public static final String DATABASE_NAME = "licet.db";
     public DBHelper(Context context) {
         super(context, DATABASE_NAME , null, 1);
