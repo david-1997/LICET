@@ -26,6 +26,7 @@ public class DBHelper extends SQLiteOpenHelper {
         Cursor res =  db.rawQuery( "select * from student where regno="+regno+" and dob="+dob+"", null );
         return res;
     }
+    // TEST
     public int numberOfRows(){
         SQLiteDatabase db = this.getReadableDatabase();
         int numRows = (int) DatabaseUtils.queryNumEntries(db,"DisplayStudent");
