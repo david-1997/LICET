@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:id="@+id/scrollview"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.example.user_pc.licet.MainActivity9"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/it0"
+            android:layout_width="wrap_content"
+            android:layout_height="86dp"
+            android:text="@string/it1"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:textColor="#4689C8"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/it1"
+            android:layout_width="wrap_content"
+            android:layout_height="86dp"
+            android:text="@string/it2"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:textColor="#4689C8"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/it2"
+            android:layout_width="wrap_content"
+            android:layout_height="500dp"
+            android:text="@string/it3"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:textColor="#4689C8"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/it3"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp"
+            android:text="@string/it4"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:textColor="#4689C8"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/it4"
+            android:layout_width="wrap_content"
+            android:layout_height="300dp"
+            android:text="@string/it5"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:textColor="#4689C8"
+            android:textStyle="bold" />
+
+
+
+    </LinearLayout>
+</ScrollView>

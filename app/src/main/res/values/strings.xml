@@ -1,0 +1,177 @@
+<resources>
+
+    <string name="app_name">LICET</string>
+    <string name="aboutus">ABOUT US</string>
+    <string name="details1">In Loyola, we look at education differently. For us, education does not lie in the quantification of knowledge. But it lies in the quality of knowledge that helps form the character of students. We Form them as Competent, Committed, Creative and Compassionate men and women for others. We believe in this philosophy. This is our passion. And this is the core of Jesuit Education. This is what has made Loyola climb to the top in the league of colleges in India.
+   </string>
+    <string name="details2">Ideals Of Jesuit Higher Education</string>
+    <string name="details3">Jesuits and formation of character are synonyms in the history of education. ‘Jesuits have been engaged in university teaching, research and scholarly publication almost since the foundation of the Society (of Jesus). They attempt to discover, shape, renew or promote human wisdom, while at the same time respecting the integrity of disciplined scholarship’ (GC 34 404). Further, ‘the Society of Jesus has carried a flame for nearly five hundred years through innumerable social and cultural circumstance that have challenged it intensely to keep that flame alive and burning’ (GC 35 D2/1).The Jesuit institutions of higher learning serve as major channels of social advancement for the poor and the marginalized so that each one of them becomes ‘a fire that kindles other fires’ of equality and justice.</string>
+    <string name="details4">Today about 50% of our people are poor and kept illiterate. They are deprived of the basic necessities of life and education, of human dignity and the power to decide their own future. The response to this situation is the integral liberation of humankind towards liberation together with the poor/Dalits. The preferential option for the poor/Dalits means that we cast our lot with them. Our love is, indeed, for all human beings but assumes different forms. We love the oppressed by espousing their causes and we love the oppressor by emancipating him/her from his/her greed and domination which dehumanize him/her (See. The Vision of the Jesuit Higher Education in Madurai Province).
+
+While we open up the access especially to those who cannot otherwise make it to higher and technical education, we do not compromise on academic excellence. Here we do not merely inform but holistically form the students – with the hope that individual formation would lead to social transformation. Thus we prepare the students not merely to survive in the world out there but to surf the world of competence with their creativity and competence. And at the same time they do not only feel for the needy but become them. They become convinced that they are born in a world of inequality but they would not leave the world as they find it. Thus they become agents of social change – This they would achieve as they would become engineers to engineer a just society. At LICET each one is formed not only for each one’s family but for the nation and for the world.
+
+The maxim of the Jesuit education is ‘magis’ (ever more/greater). As they leave LICET each one would realize: if you really want to achieve something the entire universe would conspire to help you achieve it. The spirit of ‘ever to excel’ would be the driving force to create a new world order. In LICET they would not be taught yesterday’s solution for tomorrow’s problems/challenges but they would be formed as men and women of vision for a better tomorrow.</string>
+    <string name="app_name1">Loyola-ICAM College of Engineering and Technology (LICET)
+</string>
+    <string name="name">Loyola Campus</string>
+    <string name="address1">Nungambakkam,</string>
+    <string name="address2">Chennai - 600034.</string>
+    <string name="address3">Tamil Nadu, India.</string>
+    <string name="name6">TEL:</string>
+    <string name="name7">FAX:</string>
+    <string name="name8">+91 - 44 - 28178493
+</string>
+    <string name="name1">EMAIL</string>
+    <string name="email1">licet@licet.ac.in
+</string>
+    <string name="name2">WEBSITE</string>
+    <string name="email2">www.licet.ac.in
+</string>
+    <string name="name3">DIRECTOR</string>
+    <string name="email3">director@licet.ac.in
+</string>
+    <string name="name4">PRINCIPAL</string>
+    <string name="email4">principal@licet.ac.in
+</string>
+    <string name="name5">DEAN</string>
+    <string name="email5">dean@licet.ac.in
+</string>
+    <string name="z1">IT</string>
+    <string name="z2">CSE</string>
+    <string name="z3">ECE</string>
+    <string name="z4">EEE</string>
+    <string name="z5">MECH</string>
+    <string name="z6">Departments</string>
+    <string name="clgname">Loyola-Icam College of Engineering and Technology</string>
+    <string name="clgcode">College Counselling Code : 1450</string>
+    <string name="clgfee">General Quota Fee : Rs.40,000/- per annum</string>
+    <string name="clgseat">No. of Seats :</string>
+    <string name="clgeee">Electrical  and  Electronics  Engineering : 60</string>
+    <string name="clgece">Electrical and Communication Engineering : 60</string>
+    <string name="clgcse">Computer Science Engineering : 60</string>
+    <string name="clgit">Information Technology : 60</string>
+    <string name="clgmech">Mechanical Engineering : 120</string>
+    <string name="clgadm">Admission Date : To be announced soon</string>
+    <string name="clgven">Venue : Central Office,LICET</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="s1">>>CREO:Value added course by the dept of Mechanical Engg.</string>
+    <string name="s2">>>Cyber Forensics Guest Lecture organized on March 1st by the dept of IT.</string>
+    <string name="s3">>>Guest lecture on Dev-ops.</string>
+    <string name="s4">>>NCCIS,2017 held on March 10th, organized by the dept of IT.</string>
+    <string name="s5">>>Second annual alumni meet.</string>
+    <string name="s6">>>Workshop on Biodiversity And Bioresources.</string>
+    <string name="s7">>>LICET Farewell Day.</string>
+    <string name="s8">>>4th LICET Tournament Results.</string>
+    <string name="s9">>>FDP on DRUPAL in Collaboration with Spoken Tutorial and NMEICT on Nov 25th,2016.</string>
+    <string name="y1">>>Mechanical Dept Newsletter Sept 2016.</string>
+    <string name="y2">>>EEE Newsletter Jan 2016-March 2016.</string>
+    <string name="y3">>>Second Annual Alumni Meet.</string>
+    <string name="y4">>>Report on Bridge course 2016.</string>
+    <string name="y5">>>Xplore\'16-CSE Symposium.</string>
+    <string name="y6">>>Torq2k16-Mechanical Symposium.</string>
+    <string name="y7">>>FLAIR\'16-IT Symposium.</string>
+    <string name="y8">>>SLICEV16-ECE Symposium</string>
+    <string name="y9">>>STROM16-EEE Symposium</string>
+    <string name="y10">>>Guest Lecture On "SQL in Real Time Applications". </string>
+    <string name="comp">Department of Computer Science and Engineering</string>
+    <string name="vision">Vision</string>
+    <string name="visionpara">To form Engineers with an innovative bent of mind that caters to the ever-changing computing needs of the Industry and to serve the society at large.</string>
+    <string name="mission">Mission Statement</string>
+    <string name="missionpara">The Department of Computer Science and Engineering is committed to impart outstanding undergraduate education, provide state-of-the-art computing facilities, groom students for high quality research activities, and strengthen partnership with professional and technical societies.</string>
+    <string name="prog">PROGRAMME EDUCATIONAL OBJECTIVES</string>
+    <string name="progpara">The Computer Science and Engineering program prepares students to attain the following objectives
+</string>
+    <string name="text1">->Graduates will have successful careers in computer engineering fields or will be able to successfully pursue higher studies.
+</string>
+    <string name="text2">->Graduates will demonstrate problem-solving capability and design skills including the ability to identify and formulate problems and provide solutions by creatively applying computer engineering principles.
+</string>
+    <string name="text3">->Graduates will communicate effectively, work collaboratively and exhibit high levels of professionalism and ethical responsibility by considering the local and global impact of computing on individuals, organizations, and the society.
+</string>
+    <string name="text4">->Graduates will exercise professional responsibility, engage in life-long learning and professional development to adapt to the rapidly changing work environment.
+</string>
+    <string name="para1">The department of computer science and engineering offers an undergraduate programme with an intake of 60 students per year. It provides an in-depth education in engineering principles built on mathematics, computation, programming logics, and life skills. The department maintains an active interaction with the industries to provide an exposure to the students and to bridge the gap between the industry and academia. Our faculty, students, and staff have helped to develop and maintain software applications ranging from Performance Evaluation System, Google Apps for Education, Learning Management System (Moodle), Enterprise wide Content Management System and various other campus wide networking activities. The department organizes national level technical events and competitions like Oracle Technology Network (OTN) Yatra and Srinivasa Ramanujan Mathematical Competition (SRMC).
+</string>
+    <string name="para2">The Department has entered into an MoU with Tech Mahindra for software training and Faculty Development Programmes, besides R&amp;D activities.
+</string>
+    <string name="para3">The students of the Department have brought out quite number of innovative projects such as GPS in Traffic Management, Smart Cards, etc. The software team of the Department has made laudable contribution by developing software for campus management, attendance help line and on-line test. Many of the students are well placed in leading software companies such as Infosys, Tech Mahindra, SAP, Vernalis etc.</string>
+        <string name="mech"> Department of Mechanical Engineering</string>
+        <string name="visionm1">Vision</string>
+        <string name="visionmpara">To establish the Department of Mechanical Engineering as a centre of excellence by providing world class teaching and training to individuals to empower and excel in personal and professional life with social responsibility.
+</string>
+        <string name="missionm1">Mission Statement</string>
+        <string name="missionmpara1">->To bring out the best in every one, in curricular, co-curricular and extracurricular activities.
+</string>
+        <string name="missionmpara2">->To involve students in R&amp;D projects.
+</string>
+        <string name="missionmpara3">->To inculcate and nurture Leadership skills.
+</string>
+        <string name="missionmpara4">->To gear up the students by imparting training in soft skills, aptitude and attitude to meet the challenge of facing and winning in interviews.
+</string>
+        <string name="missionmpara5">->To provide a platform for students to enable them to interact with industry icons.
+</string>
+        <string name="missionmpara6">->To prepare the students to lead a holistic life who will become ambassadors of peace in the society.
+</string>
+        <string name="param1">Mechanical engineering department was started in the year 2010 with mere students of 60 and within 4 years, the strength has gone up to 550 along with a highly qualified, experienced and dedicated teaching and non-teaching faculties, some of them having more than 30 years of experience. We have 4 PhDs and a scientist to guide the students in project modeling and project management. We have state of art facilities for all labs. We are one among the few colleges which have Automation lab to train the students in most advanced machining techniques.
+</string>
+        <string name="param2">The students go beyond the Anna university syllabus and do system discovery, system analysis (innovative programs) in the I year and II year respectively. Our III year students go to France (ICAM University) and participate in summer programs. Few of our students are doing their Master’s program in France (ICAM University), USA (Fairfield University) and also in Germany. Keeping in view of the Global perspective, students learn French and German languages in addition to soft skill training, Interview techniques, Leadership grooming, Skipper programs, Motor mechanic &amp; robotic trainings. Apart from curricular activities, we encourage the students to participate in co-curricular and extracurricular activities. In short, it is a soul satisfying experience to be a member of the mechanical department of LICET.
+</string>
+    <string name="h1"> Department of Electronics and Communication Engineering </string>
+    <string name="h2">Vision </string>
+    <string name="h3">TO BECOME A GLOBALLY RECOGNISED INSTITUTION OF HIGHER LEARNING, CENTER OF PROVIDING QUALITY EDUCATION WITH SOCIAL RESPONSIBILITY EXPENDING ENRICHED KNOWLEDGE AND TECHNOLOGIES IN THE FIELD OF ELECTRONICS AND COMMUNICATION ENGINEERING</string>
+    <string name="h4">MISSION</string>
+    <string name="h5">TO PROVIDE QUALITY TECHNICAL EDUCATION THAT PRODUCES CREATIVE SOLUTIONS TO THE SOCIETY’S NEEDS, ADHERENT TO THE PROFESSIONAL ETHICS AND TO DISSEMINATE KNOWLEDGE AND TECHNOLOGIES ESSENTIAL TO NATIVE AND GLOBAL REQUIREMENTS IN THE FIELD OF ELECTRONICS AND COMMUNICATION ENGINEERING </string>
+    <string name="h6">PROGRAMME EDUCATIONAL OBJECTIVES </string>
+    <string name="h7">The Electronics and Communication Engineering program prepares students to attain the following objectives </string>
+    <string name="h8">•    TO PROVIDE STUDENTS WITH COMPREHENSIVE FOUNDATION IN THE MATHEMATICAL, SCIENTIFIC AND ENGINEERING FUNDAMENTALS NECESSARY TO FORMULATE, ANALYZE AND SOLVE ENGINEERING PROBLEMS AND TO PREPARE THEM FOR POST GRADUATE STUDIES AND FOR SUCCESSFUL PROFESSIONALS. </string>
+    <string name="h9">•    TO IMPROVE THE ABILITY AMONG STUDENTS TO DEFINE ENGINEERING PROBLEMS IN THE FIELDS OF ELECTRONICS AND COMMUNICATION ENGINEERING, AND TO EMPLOY NECESSARY TECHNIQUES, HARDWARE AND CAD TOOLS FOR CONTEMPORARY ENGINEERING APPLICATIONS. </string>
+    <string name="h10">•TO IMPART THE VALUES, SKILLS, LEADERSHIP AND TEAM SPIRIT FOR COMPREHENSIVE PERSONALITY, TO PROMOTE ENTREPRENEURIAL INTEREST AMONG STUDENTS AND TO CREATE A ZEAL FOR USE OF ENGINEERINGSOLUTIONS FOR SOCIETAL PROBLEMS. </string>
+    <string name="h11">GRADUATES OF ELECTRONICS AND COMMUNICATION ENGINEERING PROGRAMME WILL HAVE THE FOLLOWING OUTCOMES </string>
+    <string name="h12">•HAVE STRONG BACKGROUND IN BASIC SCIENCE AND BASIC MATHEMATICS AND ABLE TO USE THESE TOOLS IN THEIR OWN ENGINEERING FIELD, </string>
+    <string name="h13">•ABLE TO DESIGN AND CONDUCT EXPERIMENTS, AS WELL AS TO ANALYZE AND INTERPRET DATA </string>
+    <string name="h14">•ABLE TO IDENTIFY AND DEFINE ENGINEERING PROBLEMS IN THE FIELDS OF ELECTRONICS AND COMMUNICATION ENGINEERING </string>
+    <string name="h15">•ABLE TO EMPLOY NECESSARY TECHNIQUES, HARDWARE, AND COMMUNICATION TOOLS FOR MODERN ENGINEERING APPLICATIONS </string>
+    <string name="h16">•ABLE TO SOLVE PROBLEMS THROUGH ANALYTICAL THINKING IN THEIR OWN OR RELATED FIELDS </string>
+    <string name="h17">•ABLE TO WORK IN A MULTI-DISCIPLINARY ENVIRONMENT </string>
+    <string name="h18">•ABLE TO FOLLOW AND CONTRIBUTE TO THE DEVELOPMENTS IN THEIR OWN FIELD RECOGNIZING THE SIGNIFICANCE OF LIFELONG LEARNING </string>
+    <string name="h19">•ABLE TO COMMUNICATE EFFECTIVELY </string>
+    <string name="h20">•HAVE STRONG ETHICAL AND PROFESSIONAL RESPONSIBILITY AND ADHERING TO QUALITY </string>
+    <string name="h21">•ABLE TO TAKE INDIVIDUAL RESPONSIBILITY AND TO WORK AS A PART OF A TEAM </string>
+    <string name="action_settings">Settings</string>
+    <string name="it1">Department of Information Technology</string>
+    <string name="it2">About the department</string>
+    <string name="it3">Every moment we experience Information Technology around us in one or other form. Department was started in the year 2010 with B. Tech. IT program with a sanctioned intake of 60 students. The Department has over 13 faculty members with 2 PhD holders and 2 faculty who are pursuing their PhD. The Department offers a programme that combines classroom and laboratory learning in technical areas with liberal arts and cooperative work assignments. This creates a practical program, balanced between foundation studies in the engineering science and applications in the real world of work. </string>
+    <string name="it4">The students are provided with all facilities and guidance to carry out their project work in the department. Intensive laboratory assignments are given to significant experience with the state – of –the –art facilities and design tools.</string>
+    <string name="it5">The Department emphasizes on Domain Specific Applications such as – Networks, Information Security, Software Engineering, Operating Systems, Database Management Systems, Image Processing, Cloud Computing etc. to facilitate the students in acquiring higher degree of knowledge, global competency and excellence, for the betterment of the society.</string>
+    <string name="depteee">Department of Electrical and Electronics Engineering
+
+</string>
+    <string name="visione1">Vision</string>
+    <string name="visionepara">As Electrical energy is a cornerstone of our quality of life, our department vision is to mould young men and women as excellent electrical engineers with the knowledge, skills, and character to undauntedly serve the people of our nation.
+</string>
+    <string name="missione">Mission</string>
+    <string name="missionepara">Ensure an enabling educational experience through industrial exposure and integration of theory with application engineering. Provide cutting-edge innovative ideas with close collaboration with industry, society, as well as other leading institutions.
+</string>
+    <string name="prog1">PROGRAMME EDUCATIONAL OBJECTIVES</string>
+    <string name="progpara1">->To prepare the students have successful career in industry, research areas and motivate for higher Education and to provide an opportunity to work in inter disciplinary groups and to become future entrepreneurs.
+</string>
+    <string name="progpara2">->To provide strong foundation in basic science, mathematics, circuit theory, field theory, control theory and signal processing concepts to formulate, solve and analyze electrical and electronics problems.
+</string>
+    <string name="progpara3">->To provide good knowledge of power electronics, Electrical power apparatus and their applications in power systems.
+</string>
+    <string name="progpara4">->To provide necessary foundation on computational platforms and software applications related to the respective field of engineering.
+</string>
+    <string name="progpara5">->To promote student awareness for lifelong learning and inculcate professional ethics and to instill social responsibility among the students to work in teams for the welfare of the society and fellow countrymen.
+</string>
+    <string name="prog2">PROGRAMME OUTCOMES:</string>
+    <string name="progepara1">->Ability to understand and apply differential equations, integrals, matrix theory, probability theory and Laplace, Fourier and Z transformations for engineering problems.
+</string>
+    <string name="progepara2">->Ability to understand and apply basic science, circuit theory, Electro-magnetic field theory control theory, linear and digital electronic circuits and apply them to electrical engineering problems.
+</string>
+    <string name="progepara3">->Ability to model and analyze electrical apparatus, power electronics and their application to power system for stability, control and protection and to handle the engineering aspects of electrical energy generation and utilization.
+</string>
+    <string name="progepara4">->Ability to review, prepare and present technological developments and to form a group and develop or solve engineering hardware and problems.
+</string>
+    <string name="progepara5">->To understand and apply computing platform and software for engineering problems.
+</string>
+    <string name="progepara6">->To understand ethical issues, environmental impact and acquire management skills.</string>
+    </resources>
