@@ -25,30 +25,31 @@
              sign the APK for publishing.
              You can define the keys for the debug and release targets in src/debug/ and src/release/.
         -->
-        <activity android:name="com.example.user_pc.licet.MainActivity">
+        <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity1"/>
-        <activity android:name=".MainActivity2"/>
-        <activity android:name=".MainActivity3"/>
-        <activity android:name=".MainActivity5"/>
-        <activity android:name=".MainActivity6"/>
-        <activity android:name=".MainActivity7"/>
-        <activity android:name=".MainActivity8"/>
-        <activity android:name=".MainActivity9"/>
-        <activity android:name=".MainActivity10"/>
-        <activity android:name=".MainActivity11"/>
-        <activity android:name=".MainActivity12"/>
-        <activity android:name=".MainActivity13"/>
-        <activity android:name=".Login"/>
+        <activity android:name=".Events" />
+        <activity android:name=".News" />
+        <activity android:name=".Photos" />
+        <activity android:name=".Departments" />
+        <activity android:name=".Admission" />
+        <activity android:name=".About" />
+        <activity android:name=".Contact" />
+        <activity android:name=".IT" />
+        <activity android:name=".ECE" />
+        <activity android:name=".MECH" />
+        <activity android:name=".CSE" />
+        <activity android:name=".Login" />
+        <activity android:name=".DisplayStudent" />
+
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="@string/google_maps_key" />
 
+        <activity android:name=".EEE"></activity>
     </application>
 
 </manifest>

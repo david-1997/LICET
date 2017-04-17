@@ -1,6 +1,8 @@
 package com.example.user_pc.licet;
 
 import android.content.Intent;
+import android.database.sqlite.SQLiteDatabase;
+import android.media.Image;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -21,67 +23,66 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Button events = (Button) findViewById(R.id.events);
+        ImageButton events = (ImageButton) findViewById(R.id.events);
         events.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                i1=new Intent(MainActivity.this,MainActivity1.class);
+                i1=new Intent(MainActivity.this,Events.class);
                 startActivity(i1);
             }
         });
-        Button news = (Button) findViewById(R.id.news);
+        ImageButton news = (ImageButton) findViewById(R.id.news);
         news.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                i2=new Intent(MainActivity.this,MainActivity2.class);
+                i2=new Intent(MainActivity.this,News.class);
                 startActivity(i2);
             }
         });
-
-        Button photos = (Button) findViewById(R.id.photos);
+        ImageButton photos = (ImageButton) findViewById(R.id.photos);
         photos.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                i3=new Intent(MainActivity.this,MainActivity3.class);
+                i3=new Intent(MainActivity.this,Photos.class);
                 startActivity(i3);
             }
         });
-        Button dept = (Button) findViewById(R.id.depts);
+        ImageButton dept = (ImageButton) findViewById(R.id.depts);
         dept.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                i4=new Intent(MainActivity.this,MainActivity5.class);
+                i4=new Intent(MainActivity.this,Departments.class);
                 startActivity(i4);
             }
     });
 
-        Button contact = (Button) findViewById(R.id.contact);
+        ImageButton contact = (ImageButton) findViewById(R.id.contact);
         contact.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
 
-                i5=new Intent(MainActivity.this,MainActivity8.class);
+                i5=new Intent(MainActivity.this,Contact.class);
                 startActivity(i5);
             }
         });
-        Button about = (Button) findViewById(R.id.about);
+        ImageButton about = (ImageButton) findViewById(R.id.about);
         about.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                i6=new Intent(MainActivity.this,MainActivity7.class);
+                i6=new Intent(MainActivity.this,About.class);
                 startActivity(i6);
             }
         });
-        Button adm = (Button) findViewById(R.id.admission);
-        adm.setOnClickListener(new View.OnClickListener() {
+        ImageButton admission = (ImageButton) findViewById(R.id.admission);
+        admission.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                i7=new Intent(MainActivity.this,MainActivity6.class);
+                i7=new Intent(MainActivity.this,Admission.class);
                 startActivity(i7);
             }
         });
-        final ImageButton login=(ImageButton)findViewById(R.id.login);
-        login.setOnClickListener(new View.OnClickListener()
+        ImageButton loginbutton=(ImageButton)findViewById(R.id.loginbutton);
+        loginbutton.setOnClickListener(new View.OnClickListener()
         {
             @Override
                     public void onClick(View view) {
@@ -89,14 +90,13 @@ public class MainActivity extends AppCompatActivity {
                     startActivity(i8);
             }
         });
-        Button location = (Button) findViewById(R.id.location);
+        ImageButton location = (ImageButton) findViewById(R.id.location);
         location.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Uri uri = Uri.parse("https://www.google.co.in/maps/dir/''/licet/@13.0592881,80.1636181,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x3a5266606a8d51eb:0xcfedaad4ca5bd750!2m2!1d80.2336586!2d13.0592975");
                 Intent intent = new Intent(Intent.ACTION_VIEW, uri);
                 startActivity(intent);
-
             }
         });
     }

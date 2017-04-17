@@ -9,7 +9,6 @@
     android:background="#ffffff"
     tools:context="com.example.user_pc.licet.MainActivity"
     android:weightSum="1">
-
         <ImageView
             android:id="@+id/image_sample"
             android:layout_width="match_parent"
@@ -20,86 +19,91 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical">
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:orientation="horizontal">
-        <Button
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+        <ImageButton
             android:id="@+id/events"
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:layout_marginLeft="20dp"
             android:layout_marginTop="40dp"
-            android:background="@drawable/t1"
+            android:src="@drawable/t1"
             />
-
-        <Button
+        <ImageButton
         android:id="@+id/news"
         android:layout_width="100dp"
         android:layout_height="100dp"
             android:layout_marginLeft="20dp"
             android:layout_marginTop="40dp"
-            android:background="@drawable/t2"
+            android:src="@drawable/t2"
             />
 
-        <Button
+        <ImageButton
             android:id="@+id/photos"
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:layout_marginLeft="20dp"
             android:layout_marginTop="40dp"
-            android:background="@drawable/t3"
+            android:src="@drawable/t3"
             />
-            </LinearLayout>
-            <LinearLayout
+        </LinearLayout>
+        <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="horizontal">
-        <Button
+        <ImageButton
             android:id="@+id/location"
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:layout_marginLeft="20dp"
-            android:background="@drawable/t4"
+            android:scaleType="centerCrop"
+            android:src="@drawable/t4"
             />
-        <Button
+        <ImageButton
             android:id="@+id/depts"
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:layout_marginLeft="20dp"
-            android:background="@drawable/t5"
+            android:scaleType="centerCrop"
+            android:src="@drawable/t5"
             />
-        <Button
+        <ImageButton
             android:id="@+id/admission"
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:layout_marginLeft="20dp"
-            android:background="@drawable/t6"
+            android:scaleType="centerCrop"
+            android:src="@drawable/t6"
             />
-            </LinearLayout>
-            <LinearLayout
+        </LinearLayout>
+        <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+            android:scaleType="centerCrop"
                 android:orientation="horizontal">
-            <Button
+            <ImageButton
                 android:id="@+id/about"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
                 android:layout_marginLeft="20dp"
-                android:background="@drawable/t7" />
+                android:scaleType="centerCrop"
+                android:src="@drawable/t7" />
             <ImageButton
-                android:id="@+id/login"
+                android:id="@+id/loginbutton"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
                 android:src="@drawable/login"
-                android:layout_marginLeft="25dp"
+                android:layout_marginLeft="20dp"
                 android:scaleType="centerCrop"/>
-            <Button
+            <ImageButton
                 android:id="@+id/contact"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
-                android:layout_marginLeft="35dp"
-                android:background="@drawable/t8"
+                android:layout_marginLeft="20dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/t8"
                 />
             </LinearLayout>
         </LinearLayout>

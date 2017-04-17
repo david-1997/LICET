@@ -94,26 +94,26 @@ The maxim of the Jesuit education is ‘magis’ (ever more/greater). As they le
     <string name="para2">The Department has entered into an MoU with Tech Mahindra for software training and Faculty Development Programmes, besides R&amp;D activities.
 </string>
     <string name="para3">The students of the Department have brought out quite number of innovative projects such as GPS in Traffic Management, Smart Cards, etc. The software team of the Department has made laudable contribution by developing software for campus management, attendance help line and on-line test. Many of the students are well placed in leading software companies such as Infosys, Tech Mahindra, SAP, Vernalis etc.</string>
-        <string name="mech"> Department of Mechanical Engineering</string>
-        <string name="visionm1">Vision</string>
-        <string name="visionmpara">To establish the Department of Mechanical Engineering as a centre of excellence by providing world class teaching and training to individuals to empower and excel in personal and professional life with social responsibility.
+    <string name="mech"> Department of Mechanical Engineering</string>
+    <string name="visionm1">Vision</string>
+    <string name="visionmpara">To establish the Department of Mechanical Engineering as a centre of excellence by providing world class teaching and training to individuals to empower and excel in personal and professional life with social responsibility.
 </string>
-        <string name="missionm1">Mission Statement</string>
-        <string name="missionmpara1">->To bring out the best in every one, in curricular, co-curricular and extracurricular activities.
+    <string name="missionm1">Mission Statement</string>
+    <string name="missionmpara1">->To bring out the best in every one, in curricular, co-curricular and extracurricular activities.
 </string>
-        <string name="missionmpara2">->To involve students in R&amp;D projects.
+    <string name="missionmpara2">->To involve students in R&amp;D projects.
 </string>
-        <string name="missionmpara3">->To inculcate and nurture Leadership skills.
+    <string name="missionmpara3">->To inculcate and nurture Leadership skills.
 </string>
-        <string name="missionmpara4">->To gear up the students by imparting training in soft skills, aptitude and attitude to meet the challenge of facing and winning in interviews.
+    <string name="missionmpara4">->To gear up the students by imparting training in soft skills, aptitude and attitude to meet the challenge of facing and winning in interviews.
 </string>
-        <string name="missionmpara5">->To provide a platform for students to enable them to interact with industry icons.
+    <string name="missionmpara5">->To provide a platform for students to enable them to interact with industry icons.
 </string>
-        <string name="missionmpara6">->To prepare the students to lead a holistic life who will become ambassadors of peace in the society.
+    <string name="missionmpara6">->To prepare the students to lead a holistic life who will become ambassadors of peace in the society.
 </string>
-        <string name="param1">Mechanical engineering department was started in the year 2010 with mere students of 60 and within 4 years, the strength has gone up to 550 along with a highly qualified, experienced and dedicated teaching and non-teaching faculties, some of them having more than 30 years of experience. We have 4 PhDs and a scientist to guide the students in project modeling and project management. We have state of art facilities for all labs. We are one among the few colleges which have Automation lab to train the students in most advanced machining techniques.
+    <string name="param1">Mechanical engineering department was started in the year 2010 with mere students of 60 and within 4 years, the strength has gone up to 550 along with a highly qualified, experienced and dedicated teaching and non-teaching faculties, some of them having more than 30 years of experience. We have 4 PhDs and a scientist to guide the students in project modeling and project management. We have state of art facilities for all labs. We are one among the few colleges which have Automation lab to train the students in most advanced machining techniques.
 </string>
-        <string name="param2">The students go beyond the Anna university syllabus and do system discovery, system analysis (innovative programs) in the I year and II year respectively. Our III year students go to France (ICAM University) and participate in summer programs. Few of our students are doing their Master’s program in France (ICAM University), USA (Fairfield University) and also in Germany. Keeping in view of the Global perspective, students learn French and German languages in addition to soft skill training, Interview techniques, Leadership grooming, Skipper programs, Motor mechanic &amp; robotic trainings. Apart from curricular activities, we encourage the students to participate in co-curricular and extracurricular activities. In short, it is a soul satisfying experience to be a member of the mechanical department of LICET.
+    <string name="param2">The students go beyond the Anna university syllabus and do system discovery, system analysis (innovative programs) in the I year and II year respectively. Our III year students go to France (ICAM University) and participate in summer programs. Few of our students are doing their Master’s program in France (ICAM University), USA (Fairfield University) and also in Germany. Keeping in view of the Global perspective, students learn French and German languages in addition to soft skill training, Interview techniques, Leadership grooming, Skipper programs, Motor mechanic &amp; robotic trainings. Apart from curricular activities, we encourage the students to participate in co-curricular and extracurricular activities. In short, it is a soul satisfying experience to be a member of the mechanical department of LICET.
 </string>
     <string name="h1"> Department of Electronics and Communication Engineering </string>
     <string name="h2">Vision </string>
@@ -174,4 +174,4 @@ The maxim of the Jesuit education is ‘magis’ (ever more/greater). As they le
     <string name="progepara5">->To understand and apply computing platform and software for engineering problems.
 </string>
     <string name="progepara6">->To understand ethical issues, environmental impact and acquire management skills.</string>
-    </resources>
+</resources>

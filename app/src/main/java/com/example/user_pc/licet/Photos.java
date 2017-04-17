@@ -7,12 +7,12 @@ import android.support.v4.view.ViewPager;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
-public class MainActivity3 extends Activity {
+public class Photos extends Activity {
     @Override
     public void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.photos);
+        setContentView(R.layout.activity_photos);
         ViewPager viewPager=(ViewPager)findViewById(R.id.view_pager);
         ImagePagerAdapter  adapter=new ImagePagerAdapter();
         viewPager.setAdapter(adapter);
@@ -40,7 +40,7 @@ public class MainActivity3 extends Activity {
         }
         @Override
         public Object instantiateItem(ViewGroup container, int position) {
-            Context context = MainActivity3.this;
+            Context context = Photos.this;
             ImageView imageView = new ImageView(context);
             int padding = context.getResources().getDimensionPixelSize(
                     R.dimen.padding_medium);

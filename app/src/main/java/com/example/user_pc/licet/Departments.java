@@ -4,7 +4,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
-public class MainActivity5 extends AppCompatActivity {
+public class Departments extends AppCompatActivity {
 
     Intent i1;
     Intent i2;
@@ -14,12 +14,12 @@ public class MainActivity5 extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.dept);
+        setContentView(R.layout.activity_department);
         Button it = (Button) findViewById(R.id.it);
         it.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                i1=new Intent(MainActivity5.this,MainActivity9.class);
+                i1=new Intent(Departments.this,IT.class);
                 startActivity(i1);
             }
         });
@@ -27,7 +27,7 @@ public class MainActivity5 extends AppCompatActivity {
         cse.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                i2=new Intent(MainActivity5.this,MainActivity13.class);
+                i2=new Intent(Departments.this,CSE.class);
                 startActivity(i2);
             }
         });
@@ -35,7 +35,7 @@ public class MainActivity5 extends AppCompatActivity {
         ece.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                i3=new Intent(MainActivity5.this,MainActivity11.class);
+                i3=new Intent(Departments.this,ECE.class);
                 startActivity(i3);
             }
         });
@@ -43,7 +43,7 @@ public class MainActivity5 extends AppCompatActivity {
         eee.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                i4=new Intent(MainActivity5.this,MainActivity10.class);
+                i4=new Intent(Departments.this,EEE.class);
                 startActivity(i4);
             }
         });
@@ -51,7 +51,7 @@ public class MainActivity5 extends AppCompatActivity {
         mech.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                i5=new Intent(MainActivity5.this,MainActivity12.class);
+                i5=new Intent(Departments.this,MECH.class);
                 startActivity(i5);
             }
         });

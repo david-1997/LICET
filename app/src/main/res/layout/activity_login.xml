@@ -18,7 +18,7 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/regno"
+        android:id="@+id/eregno"
         android:layout_weight="0.5"/>
     </LinearLayout>
     <LinearLayout
@@ -35,7 +35,7 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/dob"
+        android:id="@+id/edob"
         android:layout_weight="0.5"
         />
     </LinearLayout>
